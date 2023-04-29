@@ -1,7 +1,7 @@
 # ELibrary Management System
 
 ## ✍️ Description
-* This web is cloned from [Simple Snippets](https://www.youtube.com/playlist?list=PLIY8eNdw5tW_ZQawyxK0Dd1cZXwcNFWn8) - Channel on Youtube
+* This web is what I learn from [Simple Snippets](https://www.youtube.com/playlist?list=PLIY8eNdw5tW_ZQawyxK0Dd1cZXwcNFWn8) - Channel on Youtube
 * The purpose of doing this web is to practice and learning `C Sharp`, `.NET Framework`
 * Scroll down to view the results that I have done in learning
 
